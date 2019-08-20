@@ -22,6 +22,7 @@ import Umbrellabird from "./models/Umbrellabird.js";
 import Vulture from "./models/Vulture.js";
 import Wallaby from "./models/Wallaby.js";
 import XRayTetra from "./models/X-ray-tetra.js";
+import Yak from "./models/Yak.js";
 import Zonkey from "./models/Zonkey.js";
 
 
